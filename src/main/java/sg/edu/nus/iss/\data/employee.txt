@@ -1,0 +1,4 @@
+staffNo, fullName, department, role, emailAddress, salary
+12344,Bryan,Customer Relation,Relationship Manager,bryan@visa.com,10000
+45764,Sally,Project Manager,External Manager,sally@visa.com,9000
+56567,Carl,Test Engineer,Trainee,carl@visa.com,8000
